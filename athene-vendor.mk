@@ -192,7 +192,7 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/athene/proprietary/framework/com.motorola.imager.athene.jar:system/framework/com.motorola.imager.athene.jar \
     vendor/motorola/athene/proprietary/framework/vendor.qti.hardware.fingerprint-V1.0-java.jar:system/framework/vendor.qti.hardware.fingerprint-v1.0-java.jar \
     vendor/motorola/athene/proprietary/lib/egl/libGLES_android.so:system/lib/egl/libGLES_android.so \
-    vendor/motorola/athene/proprietary/lib/hw/camera.msm8952.so:system/lib/hw/camera.vendor.msm8952.so \
+    vendor/motorola/athene/proprietary/lib/hw/camera.vendor.msm8952.so:system/lib/hw/camera.vendor.msm8952.so \
     vendor/motorola/athene/proprietary/lib/hw/fingerprint.msm8952.so:system/vendor/lib/hw/fingerprint.msm8952.so \
     vendor/motorola/athene/proprietary/lib/hw/motorola.hardware.camera.provider@2.4-impl.so:system/lib/hw/motorola.hardware.camera.provider@2.4-impl.so \
     vendor/motorola/athene/proprietary/lib/hw/sensorhub.msm8952.so:system/lib/hw/sensorhub.msm8952.so \
